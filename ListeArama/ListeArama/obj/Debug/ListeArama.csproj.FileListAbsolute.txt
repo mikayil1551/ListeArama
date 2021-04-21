@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\bin\Debug\ListeArama.exe.config
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\bin\Debug\ListeArama.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\bin\Debug\ListeArama.pdb
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\ListeArama\ListeArama\obj\Debug\ListeArama.pdb
